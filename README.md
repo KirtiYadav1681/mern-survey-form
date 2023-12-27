@@ -31,10 +31,10 @@ Survey Form is a web application developed using the MERN stack (MongoDB, Expres
 1. Clone the repository - git clone
 2. cd survey-form
 3. Install Dependencies -
-   - In the backend folder:
+   1. In the backend folder:
       - cd server
       - npm install
-   - In the frontend folder:
+   2. In the frontend folder:
       - cd client
       - npm install
 4. Run the Application:
