@@ -38,7 +38,7 @@ Survey Form is a web application developed using the MERN stack (MongoDB, Expres
    - cd client
    - npm install
 4. Run the Application:
-   Start the server - npm start
-   Start the client - npm start
+   - Start the server : npm start
+   - Start the client : npm start
 5. Access the Application:
 ## Open your browser and navigate to http://localhost:3000
