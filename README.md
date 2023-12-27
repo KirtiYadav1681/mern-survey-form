@@ -4,32 +4,28 @@ Survey Form is a web application developed using the MERN stack (MongoDB, Expres
 
 ## Features
 ### User Authentication:
-Users can sign up for an account.
-Users can log in using their credentials.
-Users can log out securely.
-
+- Users can sign up for an account.
+- Users can log in using their credentials.
+- Users can log out securely.
 ### Survey Submission:
-Users can submit surveys with relevant information.
+- Users can submit surveys with relevant information.
 ### Admin Functionalities:
-Admin users can view all survey data.
-Admin users can view details of a specific survey.
-
+- Admin users can view all survey data.
+- Admin users can view details of a specific survey.
 ### Clean and Intuitive UI:
-The user interface is designed to provide a seamless and pleasant experience.
+- The user interface is designed to provide a seamless and pleasant experience.
 
 ## Tech Stack
 ### Frontend:
-React.js
-React Router for navigation
-Styling with CSS
-
+- React.js
+- React Router for navigation
+- Styling with CSS
 ### Backend:
-Node.js
-Express.js
-MongoDB for data storage
-
+- Node.js
+- Express.js
+- MongoDB for data storage
 ### Authentication:
-JSON Web Tokens (JWT) for secure authentication
+- JSON Web Tokens (JWT) for secure authentication
 
 ## Installation
 1. Clone the repository - git clone
